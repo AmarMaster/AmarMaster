@@ -6,6 +6,7 @@
  - 🌱 Exploring frontend web development.
  - 🔭 Working on my portfolio website.
  - 👯 Looking to collaborate on AI and ML models and pipelines.
- - 🥊 I also like boxing ...
+ - 🎤 I like performing stand-up comedy
+ - 🥊 and boxing ...
 
 Email: amar.master.work@gmail.com 
