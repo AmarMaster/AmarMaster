@@ -3,7 +3,7 @@
 
  - 😄 he/him 
  - 📚 Sophomore pursuing BS in Computer Science and BS in Mathematics.
- - 🌱 Exploring frontend web development.
+ - 🌱 Exploring machine learning.
  - 🔭 Working on my portfolio website.
  - 👯 Looking to collaborate on AI and ML models and pipelines.
  - 🎤 I like performing stand-up comedy
