@@ -5,7 +5,7 @@
  - 📚 Sophomore pursuing BS in Computer Science and BS in Mathematics.
  - 🌱 Exploring machine learning.
  - 🔭 Working on my portfolio website.
- - 👯 Looking to collaborate on AI and ML models projects.
+ - 👯 Looking to collaborate on AI and ML projects.
  - 🎤 I like performing stand-up comedy
  - 🥊 and boxing ...
 
