@@ -1,5 +1,5 @@
 # **Amar Master**
-## Student at UMass Amherst!
+## Computer Science and Mathematics Student at UMass Amherst!
 
  - 😄 he/him 
  - 📚 Sophomore pursuing BS in Computer Science and BS in Mathematics.
