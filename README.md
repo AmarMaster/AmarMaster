@@ -2,7 +2,7 @@
 ## Student at UMass Amherst!
 
  - 😄 he/him 
- - 📚 Sophomore pursuing BS in Computer Science and BS in Mathematics.
+ - 📚 Junior pursuing BS in Computer Science and BS in Mathematics.
  - 🌱 Exploring machine learning.
  - 🔭 Working on my portfolio website.
  - 👯 Looking to collaborate on AI and ML projects.
